@@ -1,0 +1,10 @@
+🔧 Feature Enhancements
+Task Priority (High, Medium, Low) with color badges
+
+Search & Filter by title, date, or status
+
+Sorting by due date or priority
+
+Mark as Completed toggle with strikethrough effect
+
+Drag & Drop task reordering
