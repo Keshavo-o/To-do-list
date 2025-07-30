@@ -31,7 +31,7 @@ Status (default: Pending)
 ├── app.js                  # JavaScript logic for managing tasks
 └── README.md               # Project documentation
 
-##📷 Screenshots
+## 📷 Screenshots
 Main View	Edit Page
 
 
