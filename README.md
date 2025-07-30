@@ -35,7 +35,9 @@ Status (default: Pending)
 └── README.md                 - Project documentation
 
 ## 📷 Screenshots
-Main View	Edit Page
+<img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/720ca071-b1af-49d5-8055-d092c7d08b3e" />
+<img width="1908" height="919" alt="image" src="https://github.com/user-attachments/assets/e69c9812-0e01-480d-b92f-1c0aff232d5d" />
+
 
 
 
@@ -77,6 +79,8 @@ This project does not use a backend/database. All data is stored locally in the 
 
 Editing is handled via PHP for demonstration, but can be done purely with JavaScript for SPAs.
 
+This project is designed to showcase my JavaScript skills by implementing task management using localStorage, as I have already demonstrated my PHP and MySQL expertise in my previous Employee Management System project.
+
 ## 📚 Future Enhancements
 Add priority field with levels (Low, Medium, High).
 
@@ -86,5 +90,5 @@ Add completion tracking.
 
 Improve UI/UX using animations and icons.
 
-Store tasks in MySQL database instead of localStorage.
+Store tasks in MySQL database instead of localStorage (optional)
 
