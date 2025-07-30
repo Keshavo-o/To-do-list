@@ -1,7 +1,7 @@
 # To-Do List Application
 This is a simple web-based To-Do List Project created using HTML, CSS (Bootstrap 5), JavaScript, and PHP. It stores tasks in Local Storage and allows basic task management operations like adding, editing, deleting, and clearing all tasks.
 
-##🚀 Features
+## 🚀 Features
 🖋️ Add New Task with:
 
 ID (auto-incremented)
@@ -24,7 +24,7 @@ Status (default: Pending)
 
 💡 Simple and responsive UI built with Bootstrap 5.
 
-##📁 File Structure
+## 📁 File Structure
 
 ├── index.html               # Main UI for adding and viewing to-do items
 ├── get_sample_todoitem.php # PHP file for editing an existing task
@@ -36,7 +36,7 @@ Main View	Edit Page
 
 
 
-##Technologies Used
+## Technologies Used
 HTML5
 
 CSS3
@@ -49,7 +49,7 @@ PHP (for Edit Page only)
 
 Browser Local Storage
 
-##🧠 Logic Overview
+## 🧠 Logic Overview
 localStorage is used to store each to-do item with a key format of todoItem-ID.
 
 The maxId value is stored in localStorage to ensure unique IDs.
@@ -69,12 +69,12 @@ Click Delete to remove a task.
 
 Click Delete all tasks to clear everything from local storage.
 
-##📋 Notes
+## 📋 Notes
 This project does not use a backend/database. All data is stored locally in the browser.
 
 Editing is handled via PHP for demonstration, but can be done purely with JavaScript for SPAs.
 
-##📚 Future Enhancements
+## 📚 Future Enhancements
 Add priority field with levels (Low, Medium, High).
 
 Implement search/filter functionality.
