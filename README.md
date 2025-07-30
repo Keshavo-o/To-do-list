@@ -26,13 +26,13 @@ Status (default: Pending)
 
 ## 📁 File Structure
 
-├── index.html               # Main UI for adding and viewing to-do items
+├── index.html                 - Main UI for adding and viewing to-do items
 
-├── get_sample_todoitem.php # PHP file for editing an existing task
+├── get_sample_todoitem.php   - PHP file for editing an existing task
 
-├── app.js                  # JavaScript logic for managing tasks
+├── app.js                    - JavaScript logic for managing tasks
 
-└── README.md               # Project documentation
+└── README.md                 - Project documentation
 
 ## 📷 Screenshots
 Main View	Edit Page
